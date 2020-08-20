@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = () => {
     return (
         <div>
-            <h1>Banner Test</h1>
+            <h1>Banner Test1</h1>
         </div>
     )
 }
